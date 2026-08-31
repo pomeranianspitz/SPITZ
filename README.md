@@ -1,3 +1,5 @@
+<img width="650" height="609" alt="image" src="https://github.com/user-attachments/assets/375e31ea-56f0-4e70-8a0d-a95f929aaf67" />
+
 # 🐕 SPITZ
 
 ## THE PACK IS FORMING.
