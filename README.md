@@ -1,6 +1,7 @@
-<img width="650" height="609" alt="image" src="https://github.com/user-attachments/assets/375e31ea-56f0-4e70-8a0d-a95f929aaf67" />
+<img src="./spitz.png" width="650" alt="SPITZ">
 
- # 🐕 SPITZ — The fluffiest dog on Solana
+# 🐕 SPITZ
+## THE PACK IS FORMING.
 
 **One dog. One Pack. One journey.**
 
@@ -8,57 +9,22 @@ SPITZ is a community-driven meme project built around a simple idea:
 
 **Memes. Culture. Community.**
 
-No promises. No roadmap. Just SPITZ.
-
----
-
-## 🐕 What is SPITZ?
-
-SPITZ is a meme project inspired by the Pomeranian — small, fluffy, fearless and impossible to ignore.
-
-The goal is to build a recognizable meme culture around the SPITZ character and its community.
+No promises. Just SPITZ.
 
 **SPITZ IS FREE.**
 
 ---
 
-## 🔥 The Burns
-
-Real commitment, on-chain.
-
-### First Burn
-
-**8,260,000 SPITZ — 15 August 2026**
-
-TX:  
-
-https://solscan.io/tx/4HLcGA1aevhpWddikVHTGYLs8hwXpJiJnadoFe9u491voPaKciWWmTQtorg7EtP3uV1rJQDyQ6gMPRWGK5oqCnYt
-
-### Second Burn
-
-**3,000,000 SPITZ — 19 August 2026**
-
-TX:  
-
-https://solscan.io/tx/612dKoztvBc5S6tCaLSnGf1zrzQXpPrCp6JcyEVsUhJtTmAnCGFXzfTa17jRHsgyKBiiHXpdNHforGGNPiaLdL8T
-
-**Total burned: 11,260,000 SPITZ**
-
----
-
-## 🔥 The Pack
+## 🐕 The Pack
 
 The Pack is the heart of SPITZ.
 
-Memes.  
-
-Content.  
-
-Creativity.  
-
-Community.  
-
-Fun.
+- Memes
+- Culture
+- Community
+- Creativity
+- Fun
+- The Pack
 
 The journey is just beginning.
 
@@ -66,45 +32,47 @@ If you believe in the fluff, you are already part of it.
 
 ---
 
-## 🔗 Official Links
+## 🔥 Identity
 
-**X:**  
+SPITZ is inspired by the Pomeranian — small, fluffy, fearless and impossible to ignore.
 
-https://x.com/spitzdogcoin
+The project is built around the SPITZ character and the culture created by its community.
 
-**Telegram:**  
+**THE PACK IS FORMING.**
 
-https://t.me/SpitzCommunity
-
-**Capitoday:**  
-
-https://capitoday.com/coins/pomeranian-spitz
-
-**CoinMarketCap:**  
-
-https://dex.coinmarketcap.com/token/Solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump/
-
-**DexScreener:**  
-
-https://dexscreener.com/solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
-
-**GeckoTerminal:**  
-
-https://www.geckoterminal.com/solana/pools/GhgjnUdk3ffzqt3bGYmfayZnGH21639Q8mecWxm3eTsN
-
-**Solscan:**  
-
-https://solscan.io/token/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
-
-**Buy SPITZ:**  
-
-https://join.pump.fun/HSag/xmcznv98
+**One dog. One Pack. One journey.**
 
 ---
 
-## 📜 Contract Address
+## 🔥 Burns
+
+Permanent on-chain actions recorded on Solana.
+
+### First Burn
+
+**8,260,000 SPITZ — August 15, 2026**
+
+Transaction:
+
+https://solscan.io/tx/4HLcGA1aevhpWddikVHTGYLs8hwXpJiJnadoFe9u491voPaKciWWmTQtorg7EtP3uV1rJQDyQ6gMPRWGK5oqCnYt
+
+### Second Burn
+
+**3,000,000 SPITZ — August 19, 2026**
+
+Transaction:
+
+https://solscan.io/tx/612dKoztvBc5S6tCaLSnGf1zrzQXpPrCp6JcyEVsUhJtTmAnCGFXzfTa17jRHsgyKBiiHXpdNHforGGNPiaLdL8T
+
+**Total burned: 11,260,000 SPITZ**
+
+---
+
+## 🪙 Token
 
 **SPITZ — Solana**
+
+**Contract Address:**
 
 `ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump`
 
@@ -112,12 +80,34 @@ https://join.pump.fun/HSag/xmcznv98
 
 ---
 
-## 🐕 SPITZ
+## 🔗 Official Links
 
-One dog.  
+- **X:** https://x.com/spitzdogcoin
+- **Telegram:** https://t.me/SpitzCommunity
+- **Capitoday:** https://capitoday.com/coins/pomeranian-spitz
+- **Pump.fun:** https://join.pump.fun/HSag/xmcznv98
+- **DexScreener:** https://dexscreener.com/solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
+- **CoinMarketCap DEX:** https://dex.coinmarketcap.com/token/Solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump/
+- **GeckoTerminal:** https://www.geckoterminal.com/solana/pools/GhgjnUdk3ffzqt3bGYmfayZnGH21639Q8mecWxm3eTsN
+- **Solscan:** https://solscan.io/token/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
+- **GitHub:** https://github.com/pomeranianspitz/SPITZ
 
-One Pack.  
+---
 
-One journey.
+## 🤝 Community
 
-### STAY FLUFFY. 🐕🔥
+SPITZ is built around community participation, creativity and meme culture.
+
+Memes. Culture. Community.
+
+**STAY FLUFFY. 🐕🔥**
+
+---
+
+## ⚠️ Disclaimer
+
+SPITZ is a meme and community project. The information in this repository is provided for informational purposes only and is not financial advice. Nothing here should be interpreted as a promise of value, returns or future performance.
+
+---
+
+**STAY FLUFFY. 🐕🔥**
