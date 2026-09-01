@@ -1,6 +1,0 @@
-SPITZ logo asset reference
-
-Repository: https://github.com/pomeranianspitz/SPITZ
-Logo file: ./spitz.png
-Token: ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
-Network: Solana
