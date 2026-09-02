@@ -84,6 +84,7 @@ https://solscan.io/tx/612dKoztvBc5S6tCaLSnGf1zrzQXpPrCp6JcyEVsUhJtTmAnCGFXzfTa17
 
 - **X:** https://x.com/spitzdogcoin
 - **Telegram:** https://t.me/SpitzCommunity
+- **Creator X:** https://x.com/gustavothespitz
 - **Capitoday:** https://capitoday.com/coins/pomeranian-spitz
 - **Pump.fun:** https://join.pump.fun/HSag/xmcznv98
 - **DexScreener:** https://dexscreener.com/solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
