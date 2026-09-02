@@ -64,7 +64,17 @@ Transaction:
 
 https://solscan.io/tx/612dKoztvBc5S6tCaLSnGf1zrzQXpPrCp6JcyEVsUhJtTmAnCGFXzfTa17jRHsgyKBiiHXpdNHforGGNPiaLdL8T
 
-**Total burned: 11,260,000 SPITZ**
+### Third Burn
+
+**8,740,000 SPITZ — September 2, 2026**
+
+Transaction:
+
+Verified on-chain burn transaction — September 2, 2026.
+
+**Total burned: 20,000,000 SPITZ**
+
+**New supply: 980,000,000 SPITZ**
 
 ---
 
