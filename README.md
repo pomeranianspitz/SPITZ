@@ -102,6 +102,7 @@ Verified on-chain burn transaction — September 2, 2026.
 - **GeckoTerminal:** https://www.geckoterminal.com/solana/pools/GhgjnUdk3ffzqt3bGYmfayZnGH21639Q8mecWxm3eTsN
 - **Solscan:** https://solscan.io/token/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
 - **GitHub:** https://github.com/pomeranianspitz/SPITZ
+- **Token Image:** https://raw.githubusercontent.com/pomeranianspitz/SPITZ/main/spitz.png
 
 ---
 
