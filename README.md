@@ -86,7 +86,6 @@ For the complete burn archive and transaction references, see **[BURNS.md](./BUR
 - **Website:** https://pomeranianspitz.github.io/SPITZ/
 - **Capitoday:** https://capitoday.com/coins/pomeranian-spitz
 - **Pump.fun:** https://join.pump.fun/HSag/xmcznv98
-- **DexScreener:** https://dexscreener.com/solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
 - **CoinMarketCap DEX:** https://dex.coinmarketcap.com/token/Solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump/
 - **GeckoTerminal:** https://www.geckoterminal.com/solana/pools/GhgjnUdk3ffzqt3bGYmfayZnGH21639Q8mecWxm3eTsN
 - **Solscan:** https://solscan.io/token/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
