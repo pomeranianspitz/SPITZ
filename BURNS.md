@@ -36,7 +36,8 @@ https://solscan.io/tx/612dKoztvBc5S6tCaLSnGf1zrzQXpPrCp6JcyEVsUhJtTmAnCGFXzfTa17
 **Date:** September 2, 2026  
 **Network:** Solana
 
-The project records this as the third SPITZ burn. The transaction should be independently verified on-chain before adding a transaction URL to this archive.
+**On-chain transaction:**  
+https://solscan.io/tx/2byQQu8pQ3Knx6TPmwgb1HY6nu2BveUFziPMXTixHDpj9uGpFH9SucjnhMm9275pJ1NUWRHauRLEhqjrPhST2Wss
 
 ---
 
