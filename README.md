@@ -5,7 +5,7 @@
 
 **One dog. One Pack. One journey.**
 
-SPITZ is a community-driven meme project built around a simple idea:
+SPITZ is a community-driven meme project on Solana built around a simple idea:
 
 **Memes. Culture. Community.**
 
@@ -44,40 +44,6 @@ The project is built around the SPITZ character and the culture created by its c
 
 ---
 
-## 🔥 Burns
-
-Permanent on-chain actions recorded on Solana.
-
-### First Burn
-
-**8,260,000 SPITZ — August 15, 2026**
-
-Transaction:
-
-https://solscan.io/tx/4HLcGA1aevhpWddikVHTGYLs8hwXpJiJnadoFe9u491voPaKciWWmTQtorg7EtP3uV1rJQDyQ6gMPRWGK5oqCnYt
-
-### Second Burn
-
-**3,000,000 SPITZ — August 19, 2026**
-
-Transaction:
-
-https://solscan.io/tx/612dKoztvBc5S6tCaLSnGf1zrzQXpPrCp6JcyEVsUhJtTmAnCGFXzfTa17jRHsgyKBiiHXpdNHforGGNPiaLdL8T
-
-### Third Burn
-
-**8,740,000 SPITZ — September 2, 2026**
-
-Transaction:
-
-Verified on-chain burn transaction — September 2, 2026.
-
-**Total burned: 20,000,000 SPITZ**
-
-**New supply: 980,000,000 SPITZ**
-
----
-
 ## 🪙 Token
 
 **SPITZ — Solana**
@@ -88,6 +54,28 @@ Verified on-chain burn transaction — September 2, 2026.
 
 **Network:** Solana
 
+**Current documented supply:** 980,000,000 SPITZ
+
+For the dedicated token reference, see **[TOKEN.md](./TOKEN.md)**.
+
+---
+
+## 🔥 Burns
+
+SPITZ maintains a public record of permanent on-chain burns.
+
+**Total burned: 20,000,000 SPITZ**
+
+**New supply: 980,000,000 SPITZ**
+
+For the complete burn archive and transaction references, see **[BURNS.md](./BURNS.md)**.
+
+### Recorded burns
+
+- **8,260,000 SPITZ — August 15, 2026**
+- **3,000,000 SPITZ — August 19, 2026**
+- **8,740,000 SPITZ — September 2, 2026**
+
 ---
 
 ## 🔗 Official Links
@@ -95,6 +83,7 @@ Verified on-chain burn transaction — September 2, 2026.
 - **X:** https://x.com/spitzdogcoin
 - **Telegram:** https://t.me/SpitzCommunity
 - **Creator X:** https://x.com/gustavothespitz
+- **Website:** https://pomeranianspitz.github.io/SPITZ/
 - **Capitoday:** https://capitoday.com/coins/pomeranian-spitz
 - **Pump.fun:** https://join.pump.fun/HSag/xmcznv98
 - **DexScreener:** https://dexscreener.com/solana/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
@@ -103,6 +92,13 @@ Verified on-chain burn transaction — September 2, 2026.
 - **Solscan:** https://solscan.io/token/ChsHJYEP9WEbnfSKKTAJv67rb6JFAbe9Goo4AXW7pump
 - **GitHub:** https://github.com/pomeranianspitz/SPITZ
 - **Token Image:** https://raw.githubusercontent.com/pomeranianspitz/SPITZ/main/spitz.png
+
+---
+
+## 📚 Project Documentation
+
+- **[TOKEN.md](./TOKEN.md)** — token reference, supply, network and official links.
+- **[BURNS.md](./BURNS.md)** — public burn archive and transaction references.
 
 ---
 
